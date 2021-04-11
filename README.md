@@ -8,4 +8,4 @@ Hackaton website: http://besthackingleague.pl
 
 Final.ipynb - it's our final and full apporach, contains EDA, data prepocessing, modelling and evaluation
 
-My working directory is "alex". I was working mainly on modeling. I created models from logistic regression, to neural networks and the catboost classifier, to ensembling methods (stacking). In the end, we decided to use catboost model. I was also involved in data preprocessing and partially in model evaluation.
+My working directory is "alex". I was working mainly on modeling. I created models from logistic regression, by neural networks and the catboost classifier, to ensembling methods (stacking). In the end, we decided to use catboost model. I was also involved in data preprocessing and partially in model evaluation.
